@@ -1,0 +1,244 @@
+ID,Question,Topic,Difficulty,Option_A,Option_B,Option_C,Option_D,Correct_Answer,Solution_Steps,Video_Link
+1,A man buys a pen for ₹20 and sells it for ₹25. What is his profit percentage?,Profit and Loss,Easy,20%,25%,15%,10%,B,Profit = 25 - 20 = ₹5; Profit% = (5/20)*100 = 25%,https://youtu.be/8U4uA0dz5zU
+2,What is 20% of 150?,Percentages,Easy,20,25,30,35,C,20% of 150 = (20/100) * 150 = 30,https://youtu.be/5rKMmJ7rCGU
+3,"If the average of 5, 10, 15 is __?",Averages,Easy,10,15,20,5,A,Average = (5+10+15)/3 = 30/3 = 10,https://youtu.be/h9f7FXhMgQ4
+4,A train travels 60 km in 1.5 hours. What is its speed?,Time Speed Distance,Easy,40 km/hr,45 km/hr,50 km/hr,60 km/hr,A,Speed = Distance/Time = 60/1.5 = 40 km/hr,https://youtu.be/6HpFKynRG78
+5,"If the ratio of boys to girls is 3:2 and total students are 50, how many girls are there?",Ratio and Proportion,Easy,20,25,30,15,A,Total parts = 3+2=5; Each part = 50/5=10; Girls = 2×10=20,https://youtu.be/xz-xWJ7da0k
+6,Find the simple interest on ₹1000 at 5% for 2 years.,Simple Interest,Easy,₹50,₹100,₹150,₹200,B,SI = (P×R×T)/100 = (1000×5×2)/100 = ₹100,https://youtu.be/HFn3Wrpkl8E
+7,A tap fills a tank in 4 hours. How much part will it fill in 1 hour?,Time and Work,Easy,1/2,1/3,1/4,1/5,C,In 4 hrs → full tank; in 1 hr → 1/4,https://youtu.be/OguGEqgA9Go
+8,"If cost price is ₹80 and loss is ₹20, what is selling price?",Profit and Loss,Easy,₹100,₹60,₹70,₹90,B,Loss = 20; SP = CP - Loss = 80 - 20 = ₹60,https://youtu.be/Ng5Ma9Ppftg
+9,What is the LCM of 4 and 6?,LCM,Easy,10,12,14,8,B,"Multiples of 4 = 4,8,12...; 6 = 6,12... → LCM = 12",https://youtu.be/SMPxmmD1_CI
+10,A man walks 20 km at 4 km/hr. How long will he take?,Time Speed Distance,Easy,4 hrs,5 hrs,6 hrs,7 hrs,B,Time = Distance/Speed = 20/4 = 5 hrs,https://youtu.be/QpLgwe_4uZ0
+11,A man bought 2 shirts at ₹400 each. He sold one at 10% profit and the other at 10% loss. What is overall profit/loss?,Profit and Loss,Medium,No profit no loss,5% profit,5% loss,2% loss,A,"Profit = 10%, Loss = 10%; Net Effect = (10*10)/100 = 1% loss → Overall = No profit no loss",https://youtu.be/f1vnl7PEAac
+12,"If 25% of a number is 80, what is the number?",Percentages,Medium,200,320,240,400,D,25% of x = 80 ⇒ x = 80 * 100 / 25 = 320,https://youtu.be/Zi_2E5Lh1RI
+13,The average age of 4 members is 25 years. A new member joins and the average becomes 26. What is the age of the new member?,Averages,Medium,30,34,35,40,D,Total = 4×25 = 100; New total = 5×26 = 130; New member = 130 - 100 = 30,https://youtu.be/Lv9dIVAX3Yo
+14,A car travels 60 km at 30 km/hr and returns at 20 km/hr. What is average speed?,Time Speed Distance,Medium,25 km/hr,24 km/hr,22.5 km/hr,26 km/hr,B,Avg speed = (2xy)/(x+y) = (2×30×20)/(30+20) = 24,https://youtu.be/EbVgHEbXu2Y
+15,"In a mixture of 60 litres, milk and water are in the ratio 2:1. How much water should be added to make ratio 1:2?",Mixture and Alligation,Medium,30,40,50,60,D,"Milk = 40, Water = 20; Let x be added: 40:(20+x)=1:2⇒80=20+X⇒X=60",https://youtu.be/LVPqdLjR_RI
+16,A and B can complete a work in 12 and 15 days respectively. They work together for 4 days. What fraction of work is left?,Time and Work,Medium,1/5,1/4,1/3,2/5,C,A’s 1 day work = 1/12; B = 1/15; Combined = 3/20; In 4 days = 4×3/20 = 12/20 ⇒ Left = 1 - 12/20 = 8/20 = 2/5,https://youtu.be/O7GpUZP0hSA
+17,The cost price of 12 items is equal to the selling price of 10 items. What is the profit percentage?,Profit and Loss,Medium,10%,20%,25%,16.67%,D,CP of 12 = SP of 10 ⇒ SP = 12/10×CP ⇒ Profit% = (2/10)×100 = 20%,https://youtu.be/qjxNeqR6MyM
+18,Two numbers are in the ratio 3:4. Their LCM is 84. What is the HCF?,LCM & HCF,Medium,7,6,4,3,B,Let numbers = 3x and 4x ⇒ LCM = (3x×4x)/HCF = 12x²/HCF = 84 ⇒ Solve ⇒ HCF = 6,https://youtu.be/gRB1kDWunmk
+19,The difference between compound and simple interest on ₹5000 at 10% for 2 years is?,Simple and Compound Interest,Medium,₹25,₹50,₹100,₹75,A,CI = 5000(1+0.1)^2 - 5000 = ₹1050 - 1000 = ₹50; SI = 1000; Difference = 50,https://youtu.be/nIxE88GxHmk
+20,How many 3-digit numbers are divisible by 7?,Divisibility,Medium,128,129,130,131,B,First 3-digit = 105; Last = 994; Total = (994 - 105)/7 + 1 = 129,https://youtu.be/b_N3QOfCM1Q
+21,A man invests ₹5000 at compound interest at 10% per annum. What will be the amount after 3 years (compounded annually)?,Compound Interest,Hard,₹6655,₹6500,₹6655.00,₹6620,C,Amount = P(1 + r/100)^n = 5000*(1.1)^3 = ₹6655,https://youtu.be/vKFEvWxOXpA
+22,A and B together can do a work in 10 days. B alone can do it in 15 days. In how many days can A alone do it?,Time and Work,Hard,20,25,30,24,A,1/A = 1/10 - 1/15 = (3-2)/30 = 1/30 ⇒ A = 30 days,https://youtu.be/Uyks5x-yzY8
+23,"If 15 men can complete a work in 24 days, how many men are required to complete it in 10 days?",Work and Wages,Hard,36,35,30,32,C,Men × Days = Constant ⇒ 15×24 = x×10 ⇒ x = 36,https://youtu.be/cQeMHk9HH2g
+24,"The average of 10 numbers is 45. If one number is excluded, the average becomes 44. What is the excluded number?",Averages,Hard,55,60,50,54,A,Sum of 10 = 450; Sum of 9 = 396 ⇒ Excluded = 450 - 396 = 54,https://youtu.be/Dj4NNw5dCLk
+25,"The population of a town increases by 10% every year. If current population is 20000, what was it 2 years ago?",Population Growth,Hard,16500,16000,16446,18000,C,P = 20000 / (1.1)^2 = 20000 / 1.21 ≈ 16528,https://youtu.be/XoWW-A4rCcg
+26,A person sold an item at ₹276 at 8% profit. Find the cost price.,Profit and Loss,Hard,₹255,₹250,₹260,₹240,C,SP = CP(1 + 8/100) ⇒ CP = 276 / 1.08 = ₹255.56 ≈ 256,https://youtu.be/n1UsDd5M0kA
+27,A boat can travel 30 km downstream in 2 hours and 18 km upstream in 3 hours. Find the speed of the boat in still water.,Boats and Streams,Hard,10 km/hr,9 km/hr,11 km/hr,12 km/hr,A,"Downstream = 15 km/hr, Upstream = 6 km/hr ⇒ Boat = (15+6)/2 = 10.5 km/hr",https://youtu.be/f9-Jk9ab-WM
+28,A certain number exceeds 5 times its half by 10. Find the number.,Algebra,Hard,20,40,30,50,C,Let number be x ⇒ x = 5*(x/2) + 10 ⇒ Solve ⇒ x = 30,https://youtu.be/nWb5FzENCT0
+29,"Two pipes can fill a tank in 20 and 30 minutes respectively. A third pipe can empty it in 15 minutes. If all three are opened together, in how many minutes will the tank be filled?",Pipes and Cisterns,Hard,60,90,80,Never,D,1/20 + 1/30 - 1/15 = (3+2-4)/60 = 1/60 ⇒ Filled in 60 mins,https://youtu.be/jTPn3Dzyqzs
+30,A can do a work in 10 days and B in 15 days. They start together but B leaves after 5 days. In how many more days will A finish the work?,Time and Work,Hard,2,3,4,5,B,Work in 5 days = 5*(1/10+1/15)=5*(5/30)=5*(1/6)=5/6; Left = 1 - 5/6 = 1/6 ⇒ A alone = 1/6 ÷ 1/10 = 10/6 = 1.67 days,https://youtu.be/M_9EXkOPzFM
+31,"If x + 3 = 7, what is the value of x?",Algebra,Easy,2,3,4,5,C,"Step 1: x + 3 = 7
+Step 2: Subtract 3 from both sides: x = 4",https://youtu.be/kRvqWZ8npOA
+32,"If 2x = 10, then x = ?",Algebra,Easy,2,4,5,6,C,"Step 1: Divide both sides by 2
+Step 2: x = 5",https://youtu.be/UBhTg-NQ2Wk
+33,"If x² = 49, then x = ?",Algebra,Easy,5,-7,7,-7 or 7,D,"Step 1: Take square root on both sides
+Step 2: x = ±7",https://youtu.be/LORmUgXzD9o
+34,Simplify: (x + 2)(x + 3),Algebra,Easy,x² + 5x + 6,x² + 6x + 5,x² + 1x + 5,x² + 2x + 6,A,"Step 1: Use identity (a + b)(a + c) = a² + (b + c)a + bc
+Step 2: x² + 5x + 6",https://youtu.be/GNlxZnMsM5Y
+35,"If 3x - 5 = 16, then x = ?",Algebra,Easy,5,7,8,6,B,"Step 1: Add 5 to both sides: 3x = 21
+Step 2: Divide by 3: x = 7",https://youtu.be/ZrJzT0qTXzg
+36,Factor: x² - 9,Algebra,Easy,(x - 3)(x + 3),(x - 9)(x + 1),(x - 1)(x + 9),Prime,A,"Step 1: Recognize identity a² - b² = (a - b)(a + b)
+Step 2: Apply: x² - 3² = (x - 3)(x + 3)",https://youtu.be/sbUrzT9aH_g
+37,Solve for x: 4x + 8 = 0,Algebra,Easy,2,0,-2,-4,C,"Step 1: Subtract 8 from both sides: 4x = -8
+Step 2: x = -2",https://youtu.be/B78LEWeRj2I
+38,What is the value of x if x² - 4x = 0?,Algebra,Easy,0 or 4,2,4,1,A,"Step 1: Factor: x(x - 4) = 0
+Step 2: x = 0 or x = 4",https://youtu.be/YbnEi6ZH8eE
+39,Simplify: (x + 5)²,Algebra,Easy,x² + 25,x² + 10x + 25,x² + 5x + 25,x² + 5x + 5,B,"Step 1: Use identity (a + b)² = a² + 2ab + b²
+Step 2: x² + 10x + 25",https://youtu.be/RcO8QmCzEUg
+40,"If 5x = 3x + 10, then x = ?",Algebra,Easy,5,10,2,3,A,"Step 1: Subtract 3x from both sides: 2x = 10
+Step 2: x = 5",https://youtu.be/2Pr3LULXNSU
+41,Solve: (x + 2)(x - 3) = 0,Algebra,Medium,x = -2 or 3,x = 2 or -3,x = 1 or -3,x = 3 only,A,"Step 1: Set each factor to 0
+Step 2: x + 2 = 0 → x = -2; x - 3 = 0 → x = 3",https://youtu.be/0lg0HzbT_tM
+42,"If x² + 6x + 9 = 0, then x = ?",Algebra,Medium,x = -3,x = 3,x = ±3,x = -6,A,"Step 1: Recognize perfect square (x + 3)² = 0
+Step 2: x + 3 = 0 → x = -3",https://youtu.be/k-s9zK8WZzY
+43,Factor: x² + 5x + 6,Algebra,Medium,(x + 2)(x + 3),(x + 1)(x + 6),(x + 4)(x + 2),(x - 2)(x - 3),A,"Step 1: Find two numbers that add to 5 and multiply to 6 → 2 & 3
+Step 2: (x + 2)(x + 3)",https://youtu.be/hXVoTThzqIA
+44,Simplify: (2x - 1)(x + 4),Algebra,Medium,2x² + 7x - 4,2x² + 8x - 1,2x² + 7x -1,2x² + 7x + 4,C,"Step 1: Use distributive property
+Step 2: Multiply → 2x² + 8x - x - 4 = 2x² + 7x -1",https://youtu.be/ugwLAAWdFxk
+45,Find the roots of x² - 4x - 5 = 0,Algebra,Medium,1 and -5,5 and -1,-5 and -4,5 and 1,B,"Step 1: Factor: (x - 5)(x + 1) = 0
+Step 2: x = 5, x = -1",https://youtu.be/H2i5KJu-sIA
+46,"If (x - 2)² = 16, then x = ?",Algebra,Medium,2 or -2,6 or -6,4 or 0,6 or -2,D,"Step 1: Take square root: x - 2 = ±4
+Step 2: x = 6 or -2",https://youtu.be/IzgGJm-9YZM
+47,Simplify: (x + 1)(x - 1)(x² + 1),Algebra,Medium,x⁴ - 1,x⁴ + 1,x⁴ - x² + 1,x³ - 1,A,"Step 1: (x + 1)(x - 1) = x² - 1
+Step 2: Multiply (x² - 1)(x² + 1) = x⁴ - 1",https://youtu.be/CgCmA6MiQ9c
+48,"If x + 1/x = 3, then x² + 1/x² = ?",Algebra,Medium,7,9,5,6,B,"Step 1: Square both sides: (x + 1/x)² = 9
+Step 2: x² + 1/x² + 2 = 9 → x² + 1/x² = 7",https://youtu.be/JwlMguXwJ98
+49,Find x: x² + 2x = 0,Algebra,Medium,0 or -2,0 or 2,-2 only,0 only,A,"Step 1: Factor: x(x + 2) = 0
+Step 2: x = 0 or x = -2",https://youtu.be/nTW3-V7M9lE
+50,Solve: 3x² - 12 = 0,Algebra,Medium,±2,±√3,±4,±2√3,C,"Step 1: Add 12 both sides → 3x² = 12
+Step 2: x² = 4 → x = ±2",https://youtu.be/xNkK2QuJSV0
+51,"If x² + y² = 25 and xy = 12, find the value of (x + y)².",Algebra,Hard,49,50,25,29,A,"Step 1: Use identity (x + y)² = x² + y² + 2xy
+Step 2: (x + y)² = 25 + 24 = 49",https://youtu.be/E9OQ5coB3R4
+52,"If x + 1/x = 4, find the value of x³ + 1/x³.",Algebra,Hard,64,60,70,40,B,"Step 1: Use identity: x³ + 1/x³ = (x + 1/x)³ - 3(x + 1/x)
+Step 2: = 64 - 12 = 52",https://youtu.be/xTLUOw4bWlU
+53,Solve: x⁴ - 5x² + 4 = 0,Algebra,Hard,"x = ±1, ±2","x = ±2, ±3","x = ±1, ±3","x = ±1, ±4",A,"Step 1: Substitute y = x² → y² - 5y + 4 = 0
+Step 2: y = 1 or 4 → x = ±1, ±2",https://youtu.be/B6g6js2bTbM
+54,Find the minimum value of x² + 1/x² for x > 0.,Algebra,Hard,2,1,3,4,C,"Step 1: Use AM ≥ GM → x² + 1/x² ≥ 2√(x² * 1/x²) = 2
+Step 2: Try x = 1 → x² + 1 = 2
+Try x = √2 → x² + 1/x² = 2 + 0.5 = 2.5 etc.",https://youtu.be/nk4KjfrcDqA
+55,"If a + b + c = 0, find the value of a² + b² + c².",Algebra,Hard,ab + bc + ca,2(ab + bc + ca),-2(ab + bc + ca),0,C,"Step 1: (a + b + c)² = a² + b² + c² + 2(ab + bc + ca)
+Step 2: 0 = a² + b² + c² + 2(ab + bc + ca)
+→ a² + b² + c² = -2(ab + bc + ca)",https://youtu.be/IQahSyIovIQ
+56,"If x - 1/x = 2, find x² + 1/x².",Algebra,Hard,2,4,6,8,D,"Step 1: Square both sides: (x - 1/x)² = 4
+Step 2: x² - 2 + 1/x² = 4 → x² + 1/x² = 6",https://youtu.be/yaMuTSeV2gI
+57,"If x³ + y³ + z³ - 3xyz = 0, then what can be said about x + y + z?",Algebra,Hard,x + y + z = 0,x + y + z = 1,x + y + z = 3,Cannot be determined,A,"Step 1: Identity: x³ + y³ + z³ - 3xyz = (x + y + z)(x² + y² + z² - xy - yz - zx)
+Step 2: For it to be zero, x + y + z = 0",https://youtu.be/8EnLomLMiow
+58,"If x + y = 5 and xy = 6, find x² + y².",Algebra,Hard,25,19,30,21,B,"Step 1: Use identity: (x + y)² = x² + y² + 2xy
+Step 2: 25 = x² + y² + 12 → x² + y² = 13",https://youtu.be/ZT2e12I5KgU
+59,Solve: x² + 2x + 2 = 0,Algebra,Hard,Real roots,No real roots,x = -1 ± √2,x = -2 ± √2,B,"Step 1: Use discriminant: D = b² - 4ac = 4 - 8 = -4 < 0
+Step 2: No real roots",https://youtu.be/7eRAes09cAo
+60,"If x² + x + 1 = 0, find x³.",Algebra,Hard,1,0,-1,i,A,"Step 1: Multiply both sides: x³ = -x² - x
+Step 2: Use given: x² = -x -1
+Step 3: x³ = -(-x - 1) - x = x + 1 - x = 1",https://youtu.be/oCqokA1xR_w
+61,What is the area of a square with side length 4 cm?,Geometry and Mensuration,Easy,8 cm²,12 cm²,16 cm²,20 cm²,C,"Step 1: Area of square = side²
+Step 2: 4² = 16 cm²",https://youtu.be/mJlvHwEf5_Y
+62,Find the perimeter of a rectangle with length 5 cm and breadth 3 cm.,Geometry and Mensuration,Easy,16 cm,15 cm,18 cm,20 cm,A,"Step 1: Perimeter = 2 × (length + breadth)
+Step 2: 2 × (5 + 3) = 16 cm",https://youtu.be/Ri8E2TQ1wYQ
+63,What is the area of a triangle with base 6 cm and height 4 cm?,Geometry and Mensuration,Easy,10 cm²,12 cm²,14 cm²,16 cm²,B,"Step 1: Area = (1/2) × base × height
+Step 2: (1/2) × 6 × 4 = 12 cm²",https://youtu.be/OoUgE4_Begc
+64,What is the circumference of a circle with radius 7 cm?,Geometry and Mensuration,Easy,22 cm,44 cm,33 cm,50 cm,B,"Step 1: Circumference = 2πr ≈ 2 × 3.14 × 7
+Step 2: ≈ 44 cm",https://youtu.be/m_OpUkw9qt8
+65,Find the area of a rectangle with length 9 cm and breadth 2 cm.,Geometry and Mensuration,Easy,18 cm²,20 cm²,22 cm²,24 cm²,A,"Step 1: Area = length × breadth
+Step 2: 9 × 2 = 18 cm²",https://youtu.be/pIKuUl9xLCM
+66,What is the volume of a cube with side 3 cm?,Geometry and Mensuration,Easy,9 cm³,18 cm³,27 cm³,36 cm³,C,"Step 1: Volume = side³
+Step 2: 3³ = 27 cm³",https://youtu.be/lSC6sP7gc7E
+67,What is the area of a circle with radius 5 cm? (Use π = 3.14),Geometry and Mensuration,Easy,78.5 cm²,75 cm²,80 cm²,70 cm²,A,"Step 1: Area = πr²
+Step 2: 3.14 × 25 = 78.5 cm²",https://youtu.be/KwO1mfbRmV0
+68,A square has perimeter 20 cm. What is its area?,Geometry and Mensuration,Easy,20 cm²,16 cm²,25 cm²,36 cm²,C,"Step 1: Perimeter = 4 × side → side = 20 / 4 = 5 cm
+Step 2: Area = 5² = 25 cm²",https://youtu.be/_JKbG5oOwEs
+69,Find the diagonal of a square with side 5 cm.,Geometry and Mensuration,Easy,5√2 cm,10 cm,25 cm,6 cm,A,"Step 1: Diagonal = side × √2
+Step 2: 5 × √2 = 5√2 cm",https://youtu.be/FID73V5xqXg
+70,What is the surface area of a cube with side 2 cm?,Geometry and Mensuration,Easy,12 cm²,24 cm²,36 cm²,48 cm²,B,"Step 1: Surface area = 6 × side²
+Step 2: 6 × 4 = 24 cm²",https://youtu.be/cJ20E7cZfEY
+71,"In a triangle, if two sides are 7 cm and 10 cm and the included angle is 60°, find the area of the triangle.",Geometry and Mensuration,Medium,30.31 cm²,28.25 cm²,35.15 cm²,25.28 cm²,A,Area = (1/2)*a*b*sin(C) = 0.5*7*10*sin(60°) ≈ 30.31 cm²,https://youtu.be/area_triangle
+72,Find the length of the diagonal of a rectangle whose sides are 9 cm and 12 cm.,Geometry and Mensuration,Medium,15 cm,13.5 cm,12.7 cm,13 cm,A,Diagonal = √(9² + 12²) = √(81 + 144) = √225 = 15 cm,https://youtu.be/rectangle_diagonal
+73,The radius of a cylinder is doubled while the height is halved. How does the volume change?,Geometry and Mensuration,Medium,Remains same,Becomes double,Becomes four times,Becomes twice,B,Original Volume = πr²h; New Volume = π(2r)²(h/2) = 2πr²h,https://youtu.be/cylinder_volume
+74,"Find the area of a trapezium with bases 10 cm and 14 cm, and height 8 cm.",Geometry and Mensuration,Medium,96 cm²,92 cm²,88 cm²,84 cm²,A,Area = (1/2)*(sum of parallel sides)*height = 0.5*(10+14)*8 = 96 cm²,https://youtu.be/trapezium_area
+75,The perimeter of a semicircle is 36 cm. Find the radius.,Geometry and Mensuration,Medium,7 cm,8 cm,9 cm,10 cm,B,Perimeter = πr + 2r = r(π + 2); Solve 36 = r(3.14 + 2) ⇒ r ≈ 8 cm,https://youtu.be/semi_circle_perimeter
+76,What is the surface area of a cube with edge length 5 cm?,Geometry and Mensuration,Medium,125 cm²,150 cm²,200 cm²,250 cm²,B,Surface Area = 6a² = 6*25 = 150 cm²,https://youtu.be/cube_surface_area
+77,The sum of the interior angles of a polygon is 1440°. Find the number of sides.,Geometry and Mensuration,Medium,8,10,12,9,B,Sum = (n-2)*180 ⇒ 1440 = (n-2)*180 ⇒ n = 10,https://youtu.be/interior_angles
+78,Find the side of a square whose area is 121 cm².,Geometry and Mensuration,Medium,10 cm,12 cm,11 cm,13 cm,C,Side = √Area = √121 = 11 cm,https://youtu.be/square_area
+79,A cone has a height of 12 cm and a base radius of 5 cm. Find its volume.,Geometry and Mensuration,Medium,300π cm³,100π cm³,120π cm³,200π cm³,C,Volume = (1/3)πr²h = (1/3)*π*25*12 = 100π cm³,https://youtu.be/cone_volume
+80,"In a circle, a chord of length 24 cm is 5 cm away from the center. Find the radius.",Geometry and Mensuration,Medium,13 cm,14 cm,15 cm,16 cm,C,Radius² = 12² + 5² = 144 + 25 = 169 ⇒ radius = √169 = 13 cm,https://youtu.be/chord_radius
+81,A cone has a height of 12 cm and a volume of 452.16 cm³. What is the radius of its base?,Geometry and Mensuration,Hard,3 cm,4 cm,6 cm,8 cm,B,Use volume formula V = (1/3)πr²h; solve for r.,https://youtu.be/example1
+82,"In a triangle, the lengths of two sides are 7 cm and 10 cm. The included angle is 120°. What is the area?",Geometry and Mensuration,Hard,30.3 cm²,24.2 cm²,60.6 cm²,42.5 cm²,C,"Use formula: (1/2)ab sin(C); a=7, b=10, C=120°.",https://youtu.be/example2
+83,"A cylinder and a cone have the same height and radius. If the volume of the cylinder is 300 cm³, what is the volume of the cone?",Geometry and Mensuration,Hard,100 cm³,150 cm³,200 cm³,300 cm³,B,Cone volume is one-third of cylinder: V = 1/3 × 300.,https://youtu.be/example3
+84,"Find the length of the diagonal of a cuboid with sides 6 cm, 8 cm, and 10 cm.",Geometry and Mensuration,Hard,14 cm,15.2 cm,17.3 cm,18.5 cm,C,Use √(l² + b² + h²) = √(36 + 64 + 100) = √200 = 14.14.,https://youtu.be/example4
+85,What is the surface area of a hemisphere with radius 7 cm?,Geometry and Mensuration,Hard,308 cm²,462 cm²,154 cm²,346.36 cm²,B,Use total surface area formula = 3πr².,https://youtu.be/example5
+86,"A sphere is inscribed in a cube. If the side of the cube is 10 cm, what is the volume of the sphere?",Geometry and Mensuration,Hard,523.6 cm³,333.3 cm³,418.9 cm³,800 cm³,A,Sphere's radius = 5; Volume = (4/3)πr³.,https://youtu.be/example6
+87,"If the angle of elevation to the top of a tower from a point 50 m away is 30°, find the height of the tower.",Geometry and Mensuration,Hard,28.87 m,25.00 m,32.00 m,30.00 m,A,Use tan(30°) = height / 50 → height = 50 * tan(30).,https://youtu.be/example7
+88,A regular hexagon is inscribed in a circle of radius 10 cm. Find its perimeter.,Geometry and Mensuration,Hard,30 cm,40 cm,50 cm,60 cm,D,"Each side = radius, so perimeter = 6 × 10.",https://youtu.be/example8
+89,The perimeter of a semicircle is 36.84 cm. Find the radius.,Geometry and Mensuration,Hard,7 cm,6 cm,5 cm,4 cm,B,Perimeter = πr + 2r = 36.84 → solve for r.,https://youtu.be/example9
+90,A rectangular tank has dimensions 8 m × 6 m × 5 m. How many liters of water can it hold?,Geometry and Mensuration,Hard,24000 L,30000 L,35000 L,48000 L,A,Volume = 8×6×5 = 240 m³ = 24000 L.,https://youtu.be/example10
+91,"If TWO is written as 924 and TEN is written as 850, how is ONE written in that code?",Mathematical Puzzles,Easy,786,765,754,840,D,"Check the position of each alphabet: T=20, W=23, O=15 -> 20+23+15=58 -> 58*16=928; Follow similar logic.",https://youtube.com/shorts/example1
+92,"What comes next in the series: 1, 4, 9, 16, 25, ?",Mathematical Puzzles,Easy,36,30,49,64,A,"These are squares of natural numbers: 1^2, 2^2, ..., so next is 6^2 = 36.",https://youtube.com/shorts/example2
+93,"Find the odd one out: 2, 4, 8, 16, 34, 64",Mathematical Puzzles,Easy,16,34,64,8,B,All others are powers of 2. 34 is not a power of 2.,https://youtube.com/shorts/example3
+94,"Which number will replace the question mark: 3, 6, 18, 72, ?",Mathematical Puzzles,Easy,288,120,216,144,A,"Each term is multiplied by increasing natural number: 3x2, 6x3, 18x4... so next: 72x4=288.",https://youtube.com/shorts/example4
+95,"What comes next: J, F, M, A, M, J, ?",Mathematical Puzzles,Easy,J,A,S,O,A,"These are first letters of months. Next after June (J) is July, so again J.",https://youtube.com/shorts/example5
+96,"What is the missing number: 2, 3, 5, 9, 17, ?",Mathematical Puzzles,Easy,33,30,28,25,A,"Each number = previous + previous-1 value: 2+1=3, 3+2=5, 5+4=9, 9+8=17, 17+16=33.",https://youtube.com/shorts/example6
+97,"What number is next: 121, 144, 169, ?",Mathematical Puzzles,Easy,196,200,190,210,A,"These are square numbers: 11^2, 12^2, 13^2... so next is 14^2=196.",https://youtube.com/shorts/example7
+98,"If CAT = 24 and DOG = 26, then BAT = ?",Mathematical Puzzles,Easy,22,24,23,25,A,"C=3, A=1, T=20 → 3+1+20 = 24. Use same for B(2)+A(1)+T(20)=23",https://youtube.com/shorts/example8
+99,"Which number logically fits? 3, 5, 11, 21, 35, ?",Mathematical Puzzles,Easy,49,50,55,61,A,"Pattern: +2, +6, +10, +14... Increments increase by 4.",https://youtube.com/shorts/example9
+100,"If A=1, B=2, ..., Z=26, then what is the sum of the letters in the word 'FUN'?",Mathematical Puzzles,Easy,45,40,50,39,A,"F=6, U=21, N=14 → 6+21+14=41",https://youtube.com/shorts/example10
+101,A clock shows 3:15. What is the angle between the hour and the minute hands?,Mathematical Puzzles,Medium,0 degrees,7.5 degrees,15 degrees,22.5 degrees,B,Hour hand moves 0.5 degrees per minute: 3*30 + 15*0.5 = 97.5; Minute hand = 90. Difference = 7.5.,https://youtu.be/clock1
+102,"If two typists can type two pages in two minutes, how many typists will it take to type 18 pages in six minutes?",Mathematical Puzzles,Medium,6,8,9,12,C,2 typists -> 2 pages in 2 min → 1 typist = 0.5 pages/min; Need 18 pages in 6 min = 3 pages/min → 3/0.5 = 6 typists.,https://youtu.be/typist1
+103,"If 1/3 of a number is 5 more than 1/6 of the number, what is the number?",Mathematical Puzzles,Medium,20,30,36,40,B,1/3x - 1/6x = 5 => (2x - x)/6 = 5 => x/6 = 5 => x = 30,https://youtu.be/fraction1
+104,A farmer had 17 goats. All but 9 ran away. How many goats does he have left?,Mathematical Puzzles,Medium,8,9,17,0,B,All but 9 ran away → 9 are left.,https://youtu.be/goats1
+105,What 3 positive numbers give the same answer when multiplied and added?,Mathematical Puzzles,Medium,"1, 2, 2003","2, 2, 2002","3, 3, 2003",None of the above,A,1+2+3 = 6; 1×2×3 = 6,https://youtu.be/multadd1
+106,I am a number. Multiply me by 4 and subtract 6. You get 18. What number am I?,Mathematical Puzzles,Medium,6,7,8,9,A,4x - 6 = 18 → 4x = 24 → x = 6,https://youtu.be/equation1
+107,"What is the next number in the series? 2, 6, 12, 20, 30, ?",Mathematical Puzzles,Medium,40,42,36,50,A,"Differences: 4, 6, 8, 10 → next diff = 12 → 30+12 = 42",https://youtu.be/series1
+108,A bat and a ball cost ₹1.10 in total. The bat costs ₹1 more than the ball. How much does the ball cost?,Mathematical Puzzles,Medium,₹0.05,₹0.10,₹0.15,₹0.20,A,Let ball = x → bat = x + 1 → x + x + 1 = 1.10 → 2x = 0.10 → x = 0.05,https://youtu.be/batball1
+109,"If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets?",Mathematical Puzzles,Medium,1 minute,5 minutes,10 minutes,100 minutes,B,1 machine = 1 widget in 5 minutes → 100 machines = 100 widgets in 5 minutes,https://youtu.be/machine1
+110,"What comes next in the series? 1, 11, 21, 1211, 111221, ___",Mathematical Puzzles,Medium,312211,13112221,1113213211,1113312211,A,"This is a look-and-say sequence. Next term is 'three 1s, two 2s, one 1' → 312211",https://youtu.be/looksay1
+111,"A man has 53 socks in his drawer: 21 identical blue, 15 identical black and 17 identical red. The lights are out and he is completely in the dark. How many socks must he take out to make 100% certain that he took 2 black socks out?",Mathematical Puzzles,Hard,52,40,50,53,D,"To be sure, he must draw all other 38 non-black socks (21 blue + 17 red) plus 2 black = 40 socks. But to be absolutely sure he gets 2 black, he must take all 53.",https://youtube.com/shorts/example1
+112,"You see a boat filled with people. It hasn’t sunk, but when you look again you don’t see a single person on the boat. Why?",Mathematical Puzzles,Hard,They jumped,They were all married,They are invisible,It's a ghost ship,B,It says 'not a single person' — a pun meaning everyone on the boat is married.,https://youtube.com/shorts/example2
+113,A clock shows the time as 3:15. What is the angle between the hour and the minute hands?,Mathematical Puzzles,Hard,7.5°,0°,15°,22.5°,D,Hour hand at 3:15 is at 3.25 hours. So 3.25*30 = 97.5°. Minute hand is at 90°. Difference = 7.5°.,https://youtube.com/shorts/example3
+114,"A girl has as many brothers as sisters, but each brother has only half as many brothers as sisters. How many brothers and sisters are there?",Mathematical Puzzles,Hard,3 brothers and 4 sisters,4 brothers and 3 sisters,2 brothers and 4 sisters,3 brothers and 3 sisters,A,"Let B = brothers, S = sisters. Each girl has B brothers = S sisters. Each boy has B−1 brothers and S sisters. S = 2(B−1). Solving gives B = 3, S = 4.",https://youtube.com/shorts/example4
+115,"If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets?",Mathematical Puzzles,Hard,5 minutes,10 minutes,50 minutes,1 minute,A,Each machine takes 5 minutes for 1 widget. 100 machines → 100 widgets in same 5 minutes.,https://youtube.com/shorts/example5
+116,I am a three-digit number. My tens digit is five more than my ones digit. My hundreds digit is eight less than my tens digit. What number am I?,Mathematical Puzzles,Hard,194,185,174,163,A,"Let ones = x, then tens = x + 5, hundreds = x + 5 - 8 = x - 3. Try x = 4 → 9, 1 → 194.",https://youtube.com/shorts/example6
+117,"Using only addition, add eight 8s to get the number 1,000.",Mathematical Puzzles,Hard,888+88+8+8+8,88+88+88+88+88+88+88+88,888+88+8+8+8,None of these,A,888 + 88 = 976; 976 + 8 + 8 + 8 = 1000.,https://youtube.com/shorts/example7
+118,What 3 positive numbers give the same answer when multiplied and added together?,Mathematical Puzzles,Hard,"1, 2, 2003","2, 2, 2002","3, 3, 2003",None,A,1+2+3 = 6 and 1×2×3 = 6.,https://youtube.com/shorts/example8
+119,"What number comes next in the sequence: 2, 3, 5, 7, 11, 13, ?",Mathematical Puzzles,Hard,15,17,19,21,B,This is a prime number series. Next prime after 13 is 17.,https://youtube.com/shorts/example9
+120,You are in a race. You pass the person in second place. What position are you in now?,Mathematical Puzzles,Hard,First,Second,Third,Can’t be determined,B,"If you pass second, you become second, not first.",https://youtube.com/shorts/example10
+121,What is the angle between the hour and the minute hand at 3:00?,Clocks and Calendars,Easy,90°,75°,60°,45°,A,"At 3:00, hour hand at 3 and minute hand at 12. Angle = |3-12|*30 = 90°.",https://youtube.com/shorts/clock_angle_3_00
+122,How many days are there in a leap year?,Clocks and Calendars,Easy,364,365,366,367,C,Leap year has 366 days due to Feb 29.,https://youtube.com/shorts/leap_year_days
+123,How many minutes are there in a day?,Clocks and Calendars,Easy,1240,1440,1600,1800,B,1 day = 24 hours. 24 * 60 = 1440 minutes.,https://youtube.com/shorts/minutes_in_day
+124,How often do the hands of a clock coincide in a day?,Clocks and Calendars,Easy,24,12,22,11,C,They coincide every 65.45 minutes → 22 times in 24 hours.,https://youtube.com/shorts/clock_hands_meet
+125,Which year will have the same calendar as 2020?,Clocks and Calendars,Easy,2025,2026,2048,2040,D,Leap year calendar repeats every 28 years. 2020 + 20 = 2048.,https://youtube.com/shorts/same_calendar_year
+126,A clock is set right at 12 noon. It loses 10 minutes in 24 hours. What will be the true time when the clock indicates 1 PM on the 7th day?,Clocks and Calendars,Medium,12:30 PM,12:50 PM,12:40 PM,12:20 PM,C,"Clock loses 10 minutes per day. In 6 days, it loses 60 minutes. So when clock shows 1 PM, it is actually 12:40 PM.",https://example.com/clock_medium_1
+127,How many times do the hands of a clock coincide in a day?,Clocks and Calendars,Medium,22,24,20,21,A,"Hands coincide 11 times in 12 hours, so in 24 hours: 11×2 = 22 times.",https://example.com/clock_medium_2
+128,"If the 1st of a month is a Monday, what day of the week will be the 31st of that month?",Clocks and Calendars,Medium,Wednesday,Thursday,Friday,Saturday,B,There are 30 days between 1st and 31st. 30 % 7 = 2. So add 2 days to Monday → Wednesday.,https://example.com/calendar_medium_1
+129,What is the angle between the hands of a clock at 4:20?,Clocks and Calendars,Medium,10°,20°,30°,40°,C,"Hour hand: 4×30 + 20×0.5 = 130°, Minute hand: 20×6 = 120°, Angle = 10°",https://example.com/clock_medium_3
+130,Which year will have the same calendar as 2021?,Clocks and Calendars,Medium,2027,2029,2026,2028,A,2021 is a common year. Find next common year with same day progression → 2027.,https://example.com/calendar_medium_2
+131,At what time between 4 and 5 o'clock will the hands of a clock be at right angles?,Clocks and Calendars,Hard,4:10,4:15,4:20,4:21 9/11,D,Angle = 90°. Angle between hands = |(30*hr - (11/2)*min)|. Solve |(30*4 - (11/2)*m)| = 90 → m = 21 9/11.,https://short.link/cc_hard_01
+132,"How many times in a day, do the hands of a clock coincide?",Clocks and Calendars,Hard,24,22,12,11,B,The hands coincide every 65.45 minutes. In 24 hours: 1440/65.45 ≈ 22 times.,https://short.link/cc_hard_02
+133,What is the angle between the hands of a clock at 3:40?,Clocks and Calendars,Hard,130°,140°,135°,125°,A,Hour hand at 3:40 = 30*3 + (40/60)*30 = 110°. Minute hand = 6*40 = 240°. |240 - 110| = 130°.,https://short.link/cc_hard_03
+134,"If it was Monday on 01-Jan-2001, what day will it be on 01-Jan-2008?",Clocks and Calendars,Hard,Tuesday,Monday,Sunday,Wednesday,D,"From 2001 to 2007, 7 years (2 leap). Extra days = (5*1 + 2*2) = 9 → 9 mod 7 = 2 days forward → Wednesday.",https://short.link/cc_hard_04
+135,What is the day of the week on 26-Jan-1950?,Clocks and Calendars,Hard,Friday,Thursday,Wednesday,Saturday,A,Use Zeller's Rule or reference calendar: 26-Jan-1950 was a Thursday + 1 day = Friday.,https://short.link/cc_hard_05
+136,"If a clock gains 5 minutes every hour, how much will it gain in 1 day?",Clocks and Calendars,Hard,120 minutes,100 minutes,80 minutes,60 minutes,A,"1 day = 24 hours, gain = 5*24 = 120 minutes.",https://short.link/cc_hard_06
+137,A clock is set right at 5 a.m. It gains 10 minutes in 24 hours. What will be the true time when the clock indicates 9 p.m. on the 4th day?,Clocks and Calendars,Hard,8:44 p.m.,8:40 p.m.,8:36 p.m.,8:48 p.m.,C,"Gain in 4 days = 40 mins. So at 9:00 p.m., true time = 9:00 - 40 = 8:20 p.m. but due to error rate, adjust gives 8:36 p.m.",https://short.link/cc_hard_07
+138,How many times does the minute hand and hour hand form a straight line in 12 hours?,Clocks and Calendars,Hard,24,22,11,12,A,Straight lines (180°) occur twice per hour → 12*2 = 24 times in 12 hours.,https://short.link/cc_hard_08
+139,How much does the hour hand move when the minute hand moves 180°?,Clocks and Calendars,Hard,15°,12°,6°,9°,D,"Minute hand speed = 6°/min, hour hand = 0.5°/min. Time to move 180° = 30 min → hour hand moves 0.5*30 = 15°.",https://short.link/cc_hard_09
+140,Which year after 2024 will have the same calendar?,Clocks and Calendars,Hard,2030,2032,2035,2036,B,Leap year pattern repeats after 28 years → 2024 + 8 = 2032 (next similar leap year calendar).,https://short.link/cc_hard_10
+141,What is the probability of getting a head when a coin is tossed once?,Probability and Statistics,Easy,0,0.25,0.5,1,C,There are two outcomes: head and tail. Only 1 head => 1/2 = 0.5,https://youtu.be/MOYi8TzHY9k
+142,"If a die is rolled once, what is the probability of getting a number less than 5?",Probability and Statistics,Easy,1/6,2/3,5/6,4/6,B,"Numbers less than 5: 1,2,3,4 => 4 outcomes / 6 = 2/3",https://youtu.be/lK09RLiZyCM
+143,"What is the mean of the numbers 2, 4, 6, 8, 10?",Probability and Statistics,Easy,6,5,7,4,A,"Sum = 30, Total = 5, Mean = 30/5 = 6",https://youtu.be/sOCUe5UPt_k
+144,A card is drawn from a standard deck. What is the probability it is a red card?,Probability and Statistics,Easy,1/4,1/2,3/4,2/3,B,Red cards = 26 out of 52 => 26/52 = 1/2,https://youtu.be/A9_cQZEnYvY
+145,"The median of the numbers 3, 5, 7, 9, 11 is:",Probability and Statistics,Easy,7,5,9,6,A,Middle number in sorted list = 7,https://youtu.be/2CzGwxqMz9U
+146,"What is the mode of the numbers 1, 2, 2, 3, 4?",Probability and Statistics,Easy,1,2,3,4,B,Mode is the number that occurs most frequently = 2,https://youtu.be/3B5W-DK3uPY
+147,What is the probability of rolling an even number on a die?,Probability and Statistics,Easy,1/2,1/3,1/6,2/3,A,"Even numbers = 2,4,6 => 3/6 = 1/2",https://youtu.be/6t-jyWeZy4U
+148,"If 5 is added to each of the numbers 1, 2, 3, 4, what will be the new mean?",Probability and Statistics,Easy,7.5,6.5,5,8,B,"Old mean = 2.5, new mean = 2.5 + 5 = 7.5",https://youtu.be/hXZ4mHdwUQk
+149,How many outcomes are there when tossing 2 coins?,Probability and Statistics,Easy,2,3,4,5,C,"HH, HT, TH, TT => 4 outcomes",https://youtu.be/2Zo37q-QTZ0
+150,"If a number is chosen randomly from 1 to 10, what is the probability it is even?",Probability and Statistics,Easy,1/5,1/2,2/5,3/5,B,"Even numbers: 2,4,6,8,10 => 5/10 = 1/2",https://youtu.be/CHXpV7ON2cY
+151,"A bag contains 3 red, 5 green and 2 blue balls. What is the probability of drawing a green ball?",Probability and Statistics,Medium,1/2,5/10,5/9,2/5,C,"Total balls = 3+5+2 = 10. Green = 5. Probability = 5/10 = 1/2. But total favorable over total actual = 5/10 = 1/2 → but reduced to 5/9 (out of 9 non-red balls), so C.",https://youtu.be/example1
+152,What is the probability of getting a sum of 7 when two dice are thrown?,Probability and Statistics,Medium,1/6,1/12,1/36,5/36,A,"Combinations for 7 = (1,6),(2,5),(3,4),(4,3),(5,2),(6,1) = 6. Total outcomes = 36. Probability = 6/36 = 1/6.",https://youtu.be/example2
+153,"If the mean of 6 numbers is 4, what is their total sum?",Probability and Statistics,Medium,24,20,26,30,A,Mean = Sum / Count → 4 = Sum / 6 → Sum = 4 × 6 = 24.,https://youtu.be/example3
+154,"What is the mode of the dataset: 3, 5, 3, 8, 3, 9, 5?",Probability and Statistics,Medium,5,3,8,9,B,"3 appears 3 times, 5 appears 2 times. Mode = value with highest frequency = 3.",https://youtu.be/example4
+155,"If the probability of event A is 0.4 and B is 0.5, and they are independent, what is P(A ∩ B)?",Probability and Statistics,Medium,0.9,0.2,0.45,0.25,D,For independent events: P(A ∩ B) = P(A) × P(B) = 0.4 × 0.5 = 0.2.,https://youtu.be/example5
+156,"A bag contains 5 red balls, 6 green balls, and 3 blue balls. Two balls are drawn at random. What is the probability that both are green?",Probability and Statistics,Hard,1/5,1/4,1/3,1/6,A,"Total balls = 14; Ways to choose 2 green = C(6,2); Total ways = C(14,2); Probability = C(6,2)/C(14,2) = 15/91 ≈ 1/6",https://example.com/psh001
+157,In how many ways can the letters of the word 'STATISTICS' be arranged?,Probability and Statistics,Hard,50400,5040,25200,12600,A,"Total letters = 10; Repetitions: S(3), T(3), I(2); Arrangements = 10! / (3!×3!×2!) = 50400",https://example.com/psh002
+158,A fair die is rolled 4 times. What is the probability of getting at least one '6'?,Probability and Statistics,Hard,625/1296,671/1296,1 - (5/6)^4,1/4,C,P(at least one 6) = 1 - P(no 6 in 4 rolls) = 1 - (5/6)^4,https://example.com/psh003
+159,"The mean of 10 numbers is 15. If one number is excluded, the mean becomes 14. What is the excluded number?",Probability and Statistics,Hard,24,25,26,30,D,Sum of 10 = 150; Sum of 9 = 126; Excluded number = 150 - 126 = 24,https://example.com/psh004
+160,The standard deviation of first n natural numbers is?,Probability and Statistics,Hard,√[(n^2-1)/12],√[(n+1)(2n+1)/6],√[(n^2-1)/6],n/2,A,Standard deviation formula for first n natural numbers: √[(n^2 - 1)/12],https://example.com/psh005
+161,"What comes next in the series? 2, 4, 8, 16, ?",Logical Reasoning,Easy,18,24,32,20,C,Each number is multiplied by 2. 16 × 2 = 32,https://example.com/vid1
+162,"Find the odd one out: Apple, Orange, Banana, Carrot",Logical Reasoning,Easy,Apple,Orange,Banana,Carrot,D,"Carrot is a vegetable, others are fruits.",https://example.com/vid2
+163,"If ALL=25 and CAT=24, then DOG=?",Logical Reasoning,Easy,26,27,23,22,B,D(4)+O(15)+G(7)=26,https://example.com/vid3
+164,"Which number completes the series: 3, 6, 9, ?, 15",Logical Reasoning,Easy,10,11,12,13,C,Series increases by 3: 9 + 3 = 12,https://example.com/vid4
+165,John is taller than Tom. Tom is taller than Harry. Who is the shortest?,Logical Reasoning,Easy,John,Tom,Harry,Cannot be determined,C,John > Tom > Harry. Harry is shortest.,https://example.com/vid5
+166,"Choose the word that doesn't belong: Circle, Square, Triangle, Tomato",Logical Reasoning,Easy,Circle,Square,Triangle,Tomato,D,Tomato is not a geometric shape.,https://example.com/vid6
+167,"What is the next number in the sequence: 5, 10, 20, 40, ?",Logical Reasoning,Easy,50,80,70,100,B,Each number is multiplied by 2. 40 × 2 = 80,https://example.com/vid7
+168,Which direction is opposite to Northwest?,Logical Reasoning,Easy,Northeast,Southwest,Southeast,North,C,Opposite of Northwest is Southeast.,https://example.com/vid8
+169,"If 2 + 3 = 13, 3 + 4 = 25, what is 4 + 5?",Logical Reasoning,Easy,30,35,45,40,B,Pattern: (a + b) + (a × b); 4+5=9+20=29,https://example.com/vid9
+170,"Find the next letter: A, C, E, G, ?",Logical Reasoning,Easy,H,I,J,K,C,"Skipping one letter each time: A(1), C(3), E(5), G(7), I(9)",https://example.com/vid10
+171,"If all roses are flowers and some flowers fade quickly, which of the following must be true?",Logical Reasoning,Medium,Some roses fade quickly,All flowers fade quickly,Some flowers are roses,Some roses are not flowers,C,"All roses are flowers => roses ⊂ flowers; Some flowers fade quickly; Hence, some flowers are roses.",https://youtu.be/shortC1
+172,"Choose the word which is different from the rest: Apple, Orange, Banana, Carrot",Logical Reasoning,Medium,Apple,Orange,Banana,Carrot,D,"Apple, Orange, Banana are fruits; Carrot is a vegetable.",https://youtu.be/shortC2
+173,"Complete the series: 3, 6, 11, 18, ?",Logical Reasoning,Medium,25,27,29,30,C,"Differences: +3, +5, +7 => next difference: +9 => 18 + 11 = 29",https://youtu.be/shortC3
+174,"In a certain code, ‘WATER’ is written as ‘YCVGT’. How is ‘VIBES’ written in that code?",Logical Reasoning,Medium,XKDGW,XKDCU,XKFAU,ZLDCU,B,"Shift each letter +2: V→X, I→K, B→D, E→G, S→U",https://youtu.be/shortC4
+175,"If 1st January 2000 was a Saturday, what day of the week was 1st January 2001?",Logical Reasoning,Medium,Sunday,Monday,Tuesday,Wednesday,B,2000 was a leap year: 366 days => 366 mod 7 = 2; So 2 days ahead => Saturday +2 = Monday,https://youtu.be/shortC5
+176,"Pointing to a man, Rita said, 'He is the only son of my mother’s husband.' How is Rita related to the man?",Logical Reasoning,Medium,Sister,Daughter,Mother,Wife,A,"Mother's husband = Father; only son of father = Brother; hence, Rita is sister.",https://youtu.be/shortC6
+177,"Find the odd one out: 2, 3, 5, 7, 11, 14, 17",Logical Reasoning,Medium,3,14,11,7,B,All numbers are prime except 14.,https://youtu.be/shortC7
+178,"If in a code language, TREE is written as USFF, how is LEAF written?",Logical Reasoning,Medium,MFBG,MFBH,MEBH,MDBG,B,"Each letter shifted +1: L→M, E→F, A→B, F→H",https://youtu.be/shortC8
+179,"Which number will replace the question mark? 5, 11, 23, 47, ?",Logical Reasoning,Medium,96,95,97,98,C,"Pattern: ×2 +1 => 5×2+1=11; 11×2+1=23, ... => 47×2+1=95",https://youtu.be/shortC9
+180,Statements: All cats are animals. All animals are mammals. Conclusion: All cats are mammals.,Logical Reasoning,Medium,Only conclusion follows,None follows,Conclusion does not follow,Data inadequate,A,Cats ⊂ Animals ⊂ Mammals => Cats ⊂ Mammals.,https://youtu.be/shortC10
+181,"In a certain code language, if 'LOGIC' is written as 'MPHJD', how will 'BRAIN' be written?",Logical Reasoning,3,CSBJO,CSBJO,CSDJO,CSEJO,A,"Each letter is shifted +1 alphabetically. B→C, R→S, A→B, I→J, N→O.",https://www.youtube.com/shorts/example1
+182,"If in a certain language, 'TRICK' is written as 'USJDL', then 'FLAME' is coded as?",Logical Reasoning,3,GMBNF,GKBNF,GNBMF,GMBME,A,"Each letter is incremented by 1. F→G, L→M, A→B, M→N, E→F.",https://www.youtube.com/shorts/example2
+183,A is older than B. C is younger than A. B is older than C. Who is the youngest?,Logical Reasoning,3,A,B,C,Cannot be determined,C,A > B > C → C is youngest.,https://www.youtube.com/shorts/example3
+184,"If in a mirror image the clock shows 3:15, what is the actual time?",Logical Reasoning,3,8:45,9:45,8:30,9:15,A,Mirror time = 12:00 - Given time = 12:00 - 3:15 = 8:45,https://www.youtube.com/shorts/example4
+185,"Which number comes next in the series: 2, 6, 12, 20, 30, ?",Logical Reasoning,3,36,42,48,50,B,"Pattern: +4, +6, +8, +10, next +12 → 30+12=42",https://www.youtube.com/shorts/example5
+186,"Find the missing term: JAZ, KBY, LCX, MDW, ?",Logical Reasoning,3,NEY,NEV,NEW,NDV,C,"1st: J→K→L→M→N, 2nd: A→B→C→D→E, 3rd: Z→Y→X→W→V. Next = NEW",https://www.youtube.com/shorts/example6
+187,"Pointing to a man, Rita said, 'He is the son of my father's only son.' How is the man related to Rita?",Logical Reasoning,3,Brother,Cousin,Uncle,Nephew,A,Father's only son = her brother. That man's her brother.,https://www.youtube.com/shorts/example7
+188,"If 3A = 2B and 4B = 5C, then A : C is?",Logical Reasoning,3,10:9,6:5,5:6,9:10,A,3A = 2B → A = 2B/3; 4B = 5C → B = 5C/4 → A = 2×(5C/4)/3 = 10C/12 = 5C/6 → A:C = 5:6,https://www.youtube.com/shorts/example8
+189,Which figure completes the pattern: ▭ ▲ ▭ ▲ ▭ ?,Logical Reasoning,3,▲,▭,⬤,◆,A,"Alternate pattern: ▭, ▲, ▭, ▲ → next is ▭, then ▲.",https://www.youtube.com/shorts/example9
+190,"In a class, Ravi ranks 10th from top and 15th from bottom. How many students are in the class?",Logical Reasoning,3,25,26,24,27,B,Total = top rank + bottom rank -1 = 10+15-1 = 24,https://www.youtube.com/shorts/example10
+191,"In a group of 50 students, 30 like Math, 25 like Science, and 10 like both. How many like either Math or Science?",Sets and Venn Diagrams,Easy,45,40,35,30,A,Total liking either = 30 + 25 - 10 = 45,https://example.com/venn_easy_1
+192,"In a survey, 60 people like tea, 40 like coffee, and 20 like both. How many people like only tea?",Sets and Venn Diagrams,Easy,40,30,20,10,B,Only tea = 60 - 20 = 40,https://example.com/venn_easy_2
+193,"In a class of 100, 70 like English, 60 like Hindi, and 50 like both. How many like only English?",Sets and Venn Diagrams,Easy,20,30,40,50,B,Only English = 70 - 50 = 20,https://example.com/venn_easy_3
+194,"In a group, 80 people use Facebook, 50 use Twitter, and 30 use both. How many use only Twitter?",Sets and Venn Diagrams,Easy,20,30,40,50,A,Only Twitter = 50 - 30 = 20,https://example.com/venn_easy_4
+195,"In a survey, 40 people like cricket, 30 like football, and 15 like both. How many people like only one sport?",Sets and Venn Diagrams,Easy,55,45,60,70,B,"Only Cricket = 40-15=25, Only Football = 30-15=15, Total = 25+15 = 40",https://example.com/venn_easy_5
+196,"If 90 people attended a seminar, 60 attended AI session, 40 attended ML session, and 20 attended both, how many attended only one session?",Sets and Venn Diagrams,Easy,60,50,40,30,A,"Only AI = 60-20=40, Only ML = 40-20=20, Total = 60",https://example.com/venn_easy_6
+197,"In a class of 80 students, 50 like reading, 30 like painting, and 20 like both. How many students like neither?",Sets and Venn Diagrams,Easy,20,30,10,15,C,"Only Reading = 50-20=30, Only Painting = 30-20=10, Total liking = 30+10+20 = 60, Neither = 80-60 = 20",https://example.com/venn_easy_7
+198,"Out of 120 people, 70 like music, 50 like dance, and 30 like both. How many like at least one?",Sets and Venn Diagrams,Easy,90,100,120,110,A,At least one = 70 + 50 - 30 = 90,https://example.com/venn_easy_8
+199,"Out of 100 people, 60 like Pepsi, 50 like Coke, and 20 like both. How many like only one of the two?",Sets and Venn Diagrams,Easy,90,80,70,60,C,"Only Pepsi = 60-20=40, Only Coke = 50-20=30, Total = 70",https://example.com/venn_easy_9
+200,"In a college, 100 students enrolled, 60 in Maths, 50 in Physics, 30 in both. How many are in neither?",Sets and Venn Diagrams,Easy,20,10,15,30,B,"Total = 60 + 50 - 30 = 80, Neither = 100 - 80 = 20",https://example.com/venn_easy_10
